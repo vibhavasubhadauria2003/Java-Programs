@@ -8,6 +8,6 @@ class BMI
         float w=sc.nextFloat();
         float h=sc.nextFloat();
         float bmi=w/(h*h);
-        System.out.println("BMI of that person is "+bmi);
+        System.out.println("BMI of person is "+bmi);
     }
 }
